@@ -1,0 +1,43 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "piffle!",
+    "longName": "piffle! time",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/piffle_pebble_colorbg.png",
+                "name": "PIFFLE_LOGO",
+                "type": "png"
+            },
+            {
+                "file": "fonts/OFLGoudyStMTT.ttf",
+                "name": "SORTS_MILL_GOUDY_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/OFLGoudyStMTT.ttf",
+                "name": "SORTS_MILL_GOUDY_60",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Quicksand-Regular.ttf",
+                "name": "QUICKSAND_REGULAR_15",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "piffle!",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "68a93a49-e3f4-4e6b-9ed9-b15b2ba30f03",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
