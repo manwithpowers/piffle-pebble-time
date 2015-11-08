@@ -9,6 +9,18 @@
     "resources": {
         "media": [
             {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/GoudyBookletter1911.ttf",
+                "name": "GOUDY_BOOKLETTER_60",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/GoudyBookletter1911.ttf",
+                "name": "GOUDY_BOOKLETTER_18",
+                "type": "font"
+            },
+            {
                 "file": "images/piffle_pebble_colorbg.png",
                 "name": "PIFFLE_LOGO",
                 "type": "png"

@@ -32,7 +32,7 @@ text_layer_set_text(date_layer, day_text);
 void window_load(Window *window)
 {
 //Load fonts
-ResHandle time_font_handle = resource_get_handle(RESOURCE_ID_SORTS_MILL_GOUDY_60);	
+ResHandle time_font_handle = resource_get_handle(RESOURCE_ID_GOUDY_BOOKLETTER_60);	
 ResHandle date_font_handle = resource_get_handle(RESOURCE_ID_QUICKSAND_REGULAR_15);	
 	
 //Piffle Logo
