@@ -11,13 +11,13 @@
             {
                 "characterRegex": "[0-9:]",
                 "file": "fonts/GoudyBookletter1911.ttf",
-                "name": "GOUDY_BOOKLETTER_60",
+                "name": "GOUDY_BOOKLETTER_18",
                 "type": "font"
             },
             {
                 "characterRegex": "[0-9:]",
                 "file": "fonts/GoudyBookletter1911.ttf",
-                "name": "GOUDY_BOOKLETTER_18",
+                "name": "GOUDY_BOOKLETTER_65",
                 "type": "font"
             },
             {
